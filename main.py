@@ -38,7 +38,6 @@ try:
             #print(f'{field}: {value}')
             texts.append(value)
 
-
 except Exception as e:
     print('error')
     print(e)
